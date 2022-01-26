@@ -1,1 +1,3 @@
 hide.txt
+*.log
+log/
